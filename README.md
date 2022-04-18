@@ -13,8 +13,6 @@ However, it has been a challenge to both add the omics data into the EHRs, due t
 Integrative multi-omic data analysis is of growing importance because it provides a holistic view of molecular fingerprints for each patient’s condition.
 
 
-![](https://github.com/STRIDES-Codes/Integrating-Omics-Data-in-Medical-Records/blob/main/images/Screenshot%20from%202021-06-05%2015-31-51.png)
-
 This project aims to provide an easily manageable database to store both patient’s EHRs and -omics data and provide clinicians with readable and easily interpretable output that helps them in the process of decision taking.
 
 ### Case study
