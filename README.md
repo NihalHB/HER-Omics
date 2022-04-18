@@ -1,4 +1,4 @@
-# Integrating-Omics-Data-in-Medical-Records
+# HER-Omics: Integrating-Omics-Data-in-Electronic-Health-Records
 
 ### How to cite:
 
@@ -25,7 +25,7 @@ As a start, and due to time constraint, we will be focusing on integrating trans
 
 
 
-### How to use I-Folder:
+### How to use HER-Omics:
 
 ## Dependencies: 
 
